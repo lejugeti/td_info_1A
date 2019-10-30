@@ -1,0 +1,6 @@
+F:\TD info\TD2\TD2\exo7\bin\Debug\exo7.exe.config
+F:\TD info\TD2\TD2\exo7\bin\Debug\exo7.exe
+F:\TD info\TD2\TD2\exo7\bin\Debug\exo7.pdb
+F:\TD info\TD2\TD2\exo7\obj\Debug\exo7.csprojAssemblyReference.cache
+F:\TD info\TD2\TD2\exo7\obj\Debug\exo7.exe
+F:\TD info\TD2\TD2\exo7\obj\Debug\exo7.pdb

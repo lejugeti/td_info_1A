@@ -1,0 +1,12 @@
+F:\TD info\TD2\TD2\exo4c\bin\Debug\exo4c.exe.config
+F:\TD info\TD2\TD2\exo4c\bin\Debug\exo4c.exe
+F:\TD info\TD2\TD2\exo4c\bin\Debug\exo4c.pdb
+F:\TD info\TD2\TD2\exo4c\obj\Debug\exo4c.csprojAssemblyReference.cache
+F:\TD info\TD2\TD2\exo4c\obj\Debug\exo4c.exe
+F:\TD info\TD2\TD2\exo4c\obj\Debug\exo4c.pdb
+E:\TD info\TD2\TD2\exo4c\bin\Debug\exo4c.exe.config
+E:\TD info\TD2\TD2\exo4c\obj\Debug\exo4c.exe
+E:\TD info\TD2\TD2\exo4c\obj\Debug\exo4c.pdb
+E:\TD info\TD2\TD2\exo4c\bin\Debug\exo4c.exe
+E:\TD info\TD2\TD2\exo4c\bin\Debug\exo4c.pdb
+E:\TD info\TD2\TD2\exo4c\obj\Debug\exo4c.csprojResolveAssemblyReference.cache

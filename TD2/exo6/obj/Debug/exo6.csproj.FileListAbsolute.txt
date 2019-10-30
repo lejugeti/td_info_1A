@@ -1,0 +1,5 @@
+F:\TD info\TD2\TD2\exo6\bin\Debug\exo6.exe.config
+F:\TD info\TD2\TD2\exo6\bin\Debug\exo6.exe
+F:\TD info\TD2\TD2\exo6\bin\Debug\exo6.pdb
+F:\TD info\TD2\TD2\exo6\obj\Debug\exo6.exe
+F:\TD info\TD2\TD2\exo6\obj\Debug\exo6.pdb

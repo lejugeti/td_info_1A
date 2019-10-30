@@ -1,0 +1,6 @@
+F:\TD info\TD5\exo6\bin\Debug\exo6.exe.config
+F:\TD info\TD5\exo6\bin\Debug\exo6.exe
+F:\TD info\TD5\exo6\bin\Debug\exo6.pdb
+F:\TD info\TD5\exo6\obj\Debug\exo6.csprojAssemblyReference.cache
+F:\TD info\TD5\exo6\obj\Debug\exo6.exe
+F:\TD info\TD5\exo6\obj\Debug\exo6.pdb

@@ -1,0 +1,6 @@
+E:\TD info\TD2\TD2\exo3\bin\Debug\exo3.exe.config
+E:\TD info\TD2\TD2\exo3\obj\Debug\exo4.csprojResolveAssemblyReference.cache
+E:\TD info\TD2\TD2\exo3\bin\Debug\exo3.exe
+E:\TD info\TD2\TD2\exo3\bin\Debug\exo3.pdb
+E:\TD info\TD2\TD2\exo3\obj\Debug\exo3.exe
+E:\TD info\TD2\TD2\exo3\obj\Debug\exo3.pdb
