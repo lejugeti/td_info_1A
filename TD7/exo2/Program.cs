@@ -4,14 +4,12 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace exo1
+namespace exo2
 {
-    class Class1
+    class Program
     {
-        public static void AfficheA()
+        static void Main(string[] args)
         {
-            
         }
-        
     }
 }

@@ -10,7 +10,9 @@ namespace exo1
     {
         static void Main(string[] args)
         {
-            
+            int age = Age.CalculAge();
+            Console.WriteLine(age);
+            Console.ReadKey();
         }
     }
 }
