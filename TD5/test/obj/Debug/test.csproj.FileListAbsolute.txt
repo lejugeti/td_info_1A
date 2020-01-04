@@ -1,0 +1,6 @@
+C:\Users\Antoi\Documents\td_info_1A\TD5\test\bin\Debug\test.exe.config
+C:\Users\Antoi\Documents\td_info_1A\TD5\test\bin\Debug\test.exe
+C:\Users\Antoi\Documents\td_info_1A\TD5\test\bin\Debug\test.pdb
+C:\Users\Antoi\Documents\td_info_1A\TD5\test\obj\Debug\test.csprojAssemblyReference.cache
+C:\Users\Antoi\Documents\td_info_1A\TD5\test\obj\Debug\test.exe
+C:\Users\Antoi\Documents\td_info_1A\TD5\test\obj\Debug\test.pdb

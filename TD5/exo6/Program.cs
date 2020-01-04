@@ -108,8 +108,6 @@ namespace exo6
 
         static void Main(string[] args)
         {
-            
-
             enigme();
             Console.ReadKey();
         }
