@@ -49,7 +49,7 @@ namespace test
             {
                 int count = 0;
 
-                for(int i = 0; i < tab.Length-1; i++)
+                for (int i = 0; i < tab.Length - 1; i++)
                 {
                     if (tab[i] > tab[i + 1])
                     {
@@ -59,9 +59,9 @@ namespace test
                         count++;
                     }
                 }
-               
 
-                if(count == 0)
+
+                if (count == 0)
                 {
                     done = true;
                 }
@@ -103,8 +103,8 @@ namespace test
             int[][] tabInf = new int[tab[0].Length][];
             int[][] tabSup = new int[tab[0].Length][];
             int[][][] bigTab = new int[2][][];
-            
-            for(int ligne = 0; ligne < tab.GetLength(0); ligne++)
+
+            for (int ligne = 0; ligne < tab.GetLength(0); ligne++)
             {
                 tmp = tri(tab[ligne]);
                 tabInfSup = DiviserTableau(tmp, seuil);
@@ -121,9 +121,9 @@ namespace test
 
         public static void AfficherTableau(int[,] tab)
         {
-            for(int ligne = 0; ligne < tab.GetLength(0); ligne++)
+            for (int ligne = 0; ligne < tab.GetLength(0); ligne++)
             {
-                for(int col = 0; col < tab.GetLength(1); col++)
+                for (int col = 0; col < tab.GetLength(1); col++)
                 {
                     Console.Write($"{tab[ligne, col]}  ");
                 }
@@ -143,9 +143,9 @@ namespace test
         public static void AfficherTableau3(int[][][] tab)
         {
             //afficher inf
-            for(int ligne = 0; ligne < tab[0].GetLength(0); ligne++)
+            for (int ligne = 0; ligne < tab[0].GetLength(0); ligne++)
             {
-                for(int col = 0; col < tab[0][ligne].Length; col++)
+                for (int col = 0; col < tab[0][ligne].Length; col++)
                 {
                     if (tab[0][ligne] == null)
                     {
@@ -154,7 +154,7 @@ namespace test
                     else { Console.Write($"{tab[0][ligne][col]}   "); }
                 }
                 Console.WriteLine("");
-                
+
             }
 
             //afficher sup
@@ -177,9 +177,9 @@ namespace test
 
         public static int[][][] ConvertirTSV(int[][][] rgb)
         {
-            double[][] t = new double[rgb[0].GetLength(0)][] ;
-            double[][] s = new double[rgb[0].GetLength(0)][] ;
-            double[][] v = new double[rgb[0].GetLength(0)][] ;
+            double[][] t = new double[rgb[0].GetLength(0)][];
+            double[][] s = new double[rgb[0].GetLength(0)][];
+            double[][] v = new double[rgb[0].GetLength(0)][];
 
             double[] tmpRGB;
 
@@ -238,7 +238,7 @@ namespace test
             /*int[,] tab = new int[,] { { 1, 12, 27, 15 }, { 0, -3, 4, 32 }, { 15, 0, 1, 3 } };
             AfficherTableau(tab);*/
 
-            int[][] tab = new int[][] { new int[] {12,5,18,11,4,5}, new int[] { 3,4 }, new int[] { 1,12,11,0 } };
+            int[][] tab = new int[][] { new int[] { 12, 5, 18, 11, 4, 5 }, new int[] { 3, 4 }, new int[] { 1, 12, 11, 0 } };
             //Console.WriteLine(tab[0].Max());
 
             /*int[] a = new int[] { 1, 2, 3 };

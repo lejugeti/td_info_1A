@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{2AF8A243-1BD7-46ED-A619-A87D1E960FC8}</ProjectGuid>
+    <ProjectGuid>{640E7357-F69B-4274-A627-3211C827F979}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>ProblèmeJuliette</RootNamespace>
-    <AssemblyName>ProblèmeJuliette</AssemblyName>
+    <RootNamespace>annale_2018</RootNamespace>
+    <AssemblyName>annale_2018</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
