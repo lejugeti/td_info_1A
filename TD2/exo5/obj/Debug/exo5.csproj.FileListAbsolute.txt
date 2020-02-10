@@ -1,6 +1,0 @@
-F:\TD info\TD2\TD2\exo5\bin\Debug\exo5bis.exe.config
-F:\TD info\TD2\TD2\exo5\bin\Debug\exo5bis.exe
-F:\TD info\TD2\TD2\exo5\bin\Debug\exo5bis.pdb
-F:\TD info\TD2\TD2\exo5\obj\Debug\exo5.csprojAssemblyReference.cache
-F:\TD info\TD2\TD2\exo5\obj\Debug\exo5bis.exe
-F:\TD info\TD2\TD2\exo5\obj\Debug\exo5bis.pdb

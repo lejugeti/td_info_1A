@@ -1,6 +1,0 @@
-D:\TD info\TD3\exo4\bin\Debug\exo4.exe.config
-D:\TD info\TD3\exo4\bin\Debug\exo4.exe
-D:\TD info\TD3\exo4\bin\Debug\exo4.pdb
-D:\TD info\TD3\exo4\obj\Debug\exo4.exe
-D:\TD info\TD3\exo4\obj\Debug\exo4.pdb
-D:\TD info\TD3\exo4\obj\Debug\exo4.csprojResolveAssemblyReference.cache

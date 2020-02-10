@@ -1,5 +1,0 @@
-c:\users\aparize\documents\visual studio 2015\Projects\exo10\exo10\bin\Debug\exo10.exe.config
-c:\users\aparize\documents\visual studio 2015\Projects\exo10\exo10\bin\Debug\exo10.exe
-c:\users\aparize\documents\visual studio 2015\Projects\exo10\exo10\bin\Debug\exo10.pdb
-c:\users\aparize\documents\visual studio 2015\Projects\exo10\exo10\obj\Debug\exo10.exe
-c:\users\aparize\documents\visual studio 2015\Projects\exo10\exo10\obj\Debug\exo10.pdb

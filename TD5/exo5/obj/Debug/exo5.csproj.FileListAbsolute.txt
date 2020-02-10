@@ -1,6 +1,0 @@
-C:\Users\Antoi\Documents\Visual Studio 2019\ConsoleApp1\exo5\bin\Debug\exo5.exe.config
-C:\Users\Antoi\Documents\Visual Studio 2019\ConsoleApp1\exo5\bin\Debug\exo5.exe
-C:\Users\Antoi\Documents\Visual Studio 2019\ConsoleApp1\exo5\bin\Debug\exo5.pdb
-C:\Users\Antoi\Documents\Visual Studio 2019\ConsoleApp1\exo5\obj\Debug\exo5.exe
-C:\Users\Antoi\Documents\Visual Studio 2019\ConsoleApp1\exo5\obj\Debug\exo5.pdb
-C:\Users\Antoi\Documents\Visual Studio 2019\ConsoleApp1\exo5\obj\Debug\exo5.csprojAssemblyReference.cache

@@ -1,6 +1,0 @@
-E:\TD info\TD2\TD2\TD2\bin\Debug\TD2.exe.config
-E:\TD info\TD2\TD2\TD2\bin\Debug\TD2.exe
-E:\TD info\TD2\TD2\TD2\bin\Debug\TD2.pdb
-E:\TD info\TD2\TD2\TD2\obj\Debug\exo2.csprojResolveAssemblyReference.cache
-E:\TD info\TD2\TD2\TD2\obj\Debug\TD2.exe
-E:\TD info\TD2\TD2\TD2\obj\Debug\TD2.pdb

@@ -1,6 +1,0 @@
-C:\Users\aparize\Documents\Visual Studio 2015\Projects\ConsoleApplication1\ConsoleApplication3\bin\Debug\ConsoleApplication3.exe.config
-C:\Users\aparize\Documents\Visual Studio 2015\Projects\ConsoleApplication1\ConsoleApplication3\bin\Debug\ConsoleApplication3.exe
-C:\Users\aparize\Documents\Visual Studio 2015\Projects\ConsoleApplication1\ConsoleApplication3\bin\Debug\ConsoleApplication3.pdb
-C:\Users\aparize\Documents\Visual Studio 2015\Projects\ConsoleApplication1\ConsoleApplication3\obj\Debug\exo8.csprojResolveAssemblyReference.cache
-C:\Users\aparize\Documents\Visual Studio 2015\Projects\ConsoleApplication1\ConsoleApplication3\obj\Debug\ConsoleApplication3.exe
-C:\Users\aparize\Documents\Visual Studio 2015\Projects\ConsoleApplication1\ConsoleApplication3\obj\Debug\ConsoleApplication3.pdb

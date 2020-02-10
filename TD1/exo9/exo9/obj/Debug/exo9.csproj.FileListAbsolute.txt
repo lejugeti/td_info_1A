@@ -1,6 +1,0 @@
-c:\users\aparize\documents\visual studio 2015\Projects\exo9\exo9\bin\Debug\exo9.exe.config
-c:\users\aparize\documents\visual studio 2015\Projects\exo9\exo9\bin\Debug\exo9.exe
-c:\users\aparize\documents\visual studio 2015\Projects\exo9\exo9\bin\Debug\exo9.pdb
-c:\users\aparize\documents\visual studio 2015\Projects\exo9\exo9\obj\Debug\exo9.csprojResolveAssemblyReference.cache
-c:\users\aparize\documents\visual studio 2015\Projects\exo9\exo9\obj\Debug\exo9.exe
-c:\users\aparize\documents\visual studio 2015\Projects\exo9\exo9\obj\Debug\exo9.pdb

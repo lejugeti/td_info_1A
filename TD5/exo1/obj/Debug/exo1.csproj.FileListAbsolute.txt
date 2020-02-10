@@ -1,6 +1,0 @@
-D:\TD info\TD5\TD 5\bin\Debug\TD 5.exe.config
-D:\TD info\TD5\TD 5\bin\Debug\TD 5.exe
-D:\TD info\TD5\TD 5\bin\Debug\TD 5.pdb
-D:\TD info\TD5\TD 5\obj\Debug\exo1.csprojResolveAssemblyReference.cache
-D:\TD info\TD5\TD 5\obj\Debug\TD 5.exe
-D:\TD info\TD5\TD 5\obj\Debug\TD 5.pdb

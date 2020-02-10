@@ -1,6 +1,0 @@
-D:\TD info\TD3\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
-D:\TD info\TD3\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
-D:\TD info\TD3\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
-D:\TD info\TD3\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
-D:\TD info\TD3\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
-D:\TD info\TD3\ConsoleApplication1\obj\Debug\exo2.csprojResolveAssemblyReference.cache

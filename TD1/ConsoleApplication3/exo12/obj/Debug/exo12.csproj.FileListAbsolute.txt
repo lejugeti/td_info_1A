@@ -1,6 +1,0 @@
-c:\Users\aparize\documents\visual studio 2015\Projects\ConsoleApplication3\exo12\bin\Debug\exo12.exe.config
-c:\Users\aparize\documents\visual studio 2015\Projects\ConsoleApplication3\exo12\obj\Debug\exo12.csprojResolveAssemblyReference.cache
-c:\Users\aparize\documents\visual studio 2015\Projects\ConsoleApplication3\exo12\bin\Debug\exo12.exe
-c:\Users\aparize\documents\visual studio 2015\Projects\ConsoleApplication3\exo12\bin\Debug\exo12.pdb
-c:\Users\aparize\documents\visual studio 2015\Projects\ConsoleApplication3\exo12\obj\Debug\exo12.exe
-c:\Users\aparize\documents\visual studio 2015\Projects\ConsoleApplication3\exo12\obj\Debug\exo12.pdb
