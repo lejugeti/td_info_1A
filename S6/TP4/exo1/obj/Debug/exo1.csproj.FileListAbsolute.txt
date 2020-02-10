@@ -1,0 +1,6 @@
+H:\td_info_1A\S6\TP4\exo1\bin\Debug\exo1.exe.config
+H:\td_info_1A\S6\TP4\exo1\bin\Debug\exo1.exe
+H:\td_info_1A\S6\TP4\exo1\bin\Debug\exo1.pdb
+H:\td_info_1A\S6\TP4\exo1\obj\Debug\exo1.csprojResolveAssemblyReference.cache
+H:\td_info_1A\S6\TP4\exo1\obj\Debug\exo1.exe
+H:\td_info_1A\S6\TP4\exo1\obj\Debug\exo1.pdb
